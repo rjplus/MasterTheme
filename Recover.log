@@ -1,0 +1,5 @@
+﻿Timestamp	Filename	Error	Message
+2018-02-24 10:09:47.001 +0000	MasterFM.fmp12	0	*** Started consistency check of improperly closed file, total of 119 block(s) to check
+2018-02-24 10:09:47.001 +0000	MasterFM.fmp12	8432	Page 119 marked free but not in free list
+2018-02-24 10:09:47.002 +0000	MasterFM.fmp12	0	Reset maximum block sequence number to 5726
+2018-02-24 10:09:47.002 +0000	MasterFM.fmp12	0	*** Completed consistency check, checked 119 block(s)
