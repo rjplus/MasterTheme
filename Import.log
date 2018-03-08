@@ -6,3 +6,22 @@
 2018-03-05 12:33:35.145 +0000	Global (0007) Refresh Portal object	0	script steps imported : 31
 2018-03-05 12:33:35.146 +0000	MasterFM.fmp12	0	scripts imported : 1
 2018-03-05 12:33:35.146 +0000	MasterFM.fmp12	0	Import completed
+2018-03-07 14:36:26.063 +0000	MasterFM.fmp12	0	Import operations started
+2018-03-07 14:36:56.041 +0000	MasterFM.fmp12	0	Import of tables from file “SalesLedger.fmp12” started
+2018-03-07 14:36:56.046 +0000	MasterFM.fmp12	0	Table “Template” imported as “Template 2” since a table or table occurrence named “Template” already exists.
+2018-03-07 14:36:56.057 +0000	Template 2::id	102	Field referred to in the calculation “ UUIDTimeDevice” is missing.
+2018-03-07 14:36:56.069 +0000	Template 2	0	fields imported : 23
+2018-03-07 14:36:56.071 +0000	MasterFM.fmp12	0	tables imported : 2
+2018-03-07 14:36:56.073 +0000	MasterFM.fmp12	0	Import completed
+2018-03-07 14:41:36.530 +0000	MasterFM.fmp12	0	Import operations committed
+2018-03-07 14:41:36.533 +0000	MasterFM.fmp12	0	==================================================================
+2018-03-08 11:12:36.293 +0000	MasterFM.fmp12	0	Import operations started
+2018-03-08 11:12:36.296 +0000	MasterFM.fmp12	0	Import of fields from clipboard started
+2018-03-08 11:12:36.299 +0000	TEMPLATE	0	Field “__id” imported as “__id 2” since a field named “__id” already exists.
+2018-03-08 11:12:36.319 +0000	TEMPLATE	0	fields imported : 24
+2018-03-08 11:12:36.320 +0000	MasterFM.fmp12	0	Import completed
+2018-03-08 11:21:08.631 +0000	MasterFM.fmp12	0	Import of tables from clipboard started
+2018-03-08 11:21:08.637 +0000	MasterFM.fmp12	0	Table “TEMPLATE” imported as “TEMPLATE 2” since a table or table occurrence named “TEMPLATE” already exists.
+2018-03-08 11:21:08.659 +0000	TEMPLATE 2	0	fields imported : 30
+2018-03-08 11:21:08.660 +0000	MasterFM.fmp12	0	tables imported : 1
+2018-03-08 11:21:08.661 +0000	MasterFM.fmp12	0	Import completed
