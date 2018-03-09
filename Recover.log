@@ -14,3 +14,14 @@
 2018-03-05 10:18:01.785 +0000	MasterFM.fmp12	8432	Page 144 marked free but not in free list
 2018-03-05 10:18:01.785 +0000	MasterFM.fmp12	0	Reset maximum block sequence number to 10810
 2018-03-05 10:18:01.786 +0000	MasterFM.fmp12	0	*** Completed consistency check, checked 153 block(s)
+2018-03-05 12:32:36.342 +0000	MasterFM.fmp12	0	*** Started consistency check of improperly closed file, total of 153 block(s) to check
+2018-03-05 12:32:36.359 +0000	MasterFM.fmp12	8432	Page 133 marked free but not in free list
+2018-03-05 12:32:36.360 +0000	MasterFM.fmp12	8432	Page 134 marked free but not in free list
+2018-03-05 12:32:36.360 +0000	MasterFM.fmp12	8432	Page 135 marked free but not in free list
+2018-03-05 12:32:36.360 +0000	MasterFM.fmp12	8432	Page 136 marked free but not in free list
+2018-03-05 12:32:36.360 +0000	MasterFM.fmp12	8432	Page 137 marked free but not in free list
+2018-03-05 12:32:36.361 +0000	MasterFM.fmp12	8432	Page 138 marked free but not in free list
+2018-03-05 12:32:36.361 +0000	MasterFM.fmp12	8432	Page 139 marked free but not in free list
+2018-03-05 12:32:36.361 +0000	MasterFM.fmp12	8432	Page 144 marked free but not in free list
+2018-03-05 12:32:36.361 +0000	MasterFM.fmp12	0	Reset maximum block sequence number to 10899
+2018-03-05 12:32:36.361 +0000	MasterFM.fmp12	0	*** Completed consistency check, checked 153 block(s)
